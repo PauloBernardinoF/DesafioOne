@@ -123,6 +123,21 @@ border: 2px solid var(--cortextomenor);
 transition: 0.5s all;
 }
 
+.rodape {
+    display: flex;
+    align-content: center;
+    background-color: var(--cortextomenor);
+    padding: 2%;
+    padding-bottom: 2%;
+    font-size: 16px;
+  }
+
+.rodape h3 {
+    display: flex;
+    align-items: center;
+    color: var(--corbotaocript);
+    padding: 0;
+}
 
 
 
